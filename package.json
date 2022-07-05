@@ -12,13 +12,13 @@
   },
   "keywords": [],
   "author": "",
+  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/riffdaddyslim/nodemailer-lib/issues"
   },
   "homepage": "https://github.com/riffdaddyslim/nodemailer-lib#readme",
   "dependencies": {
-    "dotenv": "^16.0.1",
     "nodemailer": "^6.7.6"
   }
 }
